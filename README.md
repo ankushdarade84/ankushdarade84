@@ -6,7 +6,7 @@
 
 - 🌱 Learning Technology, Implementing Full Stack Projects 🚀
 
-- 💬 Ask me about *Web App, C++, Java, Angular, React, Angular
+- 💬 Ask me about *Web App, C++, Java, Angular, React, Angular 
 
 - 👨‍💻 Reach out to me : *<a href="mailto:atdarade84@gmail.com" target="_blank">atdarade84@gmail.com</a>*
 
