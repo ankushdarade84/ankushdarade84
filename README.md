@@ -65,9 +65,10 @@
     <td><img src="https://github-readme-stats.vercel.app/api?username=ankushdarade84&show_icons=true&theme=light&locale=en" alt="ankushdarade84" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankushdarade84&show_icons=true&theme=light&locale=en&layout=compact" alt="ankushdarade84" /></td>
   </tr>
+
 </table>
 
 <div align="center">
 <!-- <p><img align="center" src="https://streak-stats.demolab.com/?user=ankushdarade84&theme=light" alt="ankushdarade84" /></p> -->
-<!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ankushdarade84" alt="GitHub Streak" /></a> -->
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ankushdarade84" alt="GitHub Streak" /></a>
 </div>
