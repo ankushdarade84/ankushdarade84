@@ -56,8 +56,10 @@
 <div align="left">
 <!--   <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> -->
 <!--   <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/> -->
+
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+    <img alt="Codestandbox" src="https://img.shields.io/badge/Codestandbox-000000?style=for-the-badge&logo=square&logoColor=white"/>
 </div>
 <br/>
 
