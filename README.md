@@ -14,9 +14,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-  <a href="https://www.linkedin.com/in/ankushdarade84/"><img alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankushdarade84" height="30" width="40" /></a>
-  <a href="https://instagram.com/ankush_darade/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankushdarade84" height="30" width="40" /></a>
-  <a href="https://ankush-darade.netlify.app/" target="blank"><img align="center" src="https://ankush-darade.netlify.app/assets/img/aiim.png" alt="ankushdarade84" height="30" width="40" /></a>
+<!--   <a href="https://www.linkedin.com/in/ankushdarade84/"><img alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankushdarade84" height="30" width="40" /></a>
+  <a href="https://instagram.com/ankush_darade/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankushdarade84" height="30" width="40" /></a> -->
+
+<table >
+  <tr>
+      <a href="https://ankush-darade.netlify.app/" target="blank"><img align="center" alt="web"  src="https://ankush-darade.netlify.app/assets/img/aiim.png" height="35" width="35" /></a>&nbsp;
+   <a href="https://instagram.com/ankush_darade/" target="blank"><img align="center"alt="Insta" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=instagram"  ></a> &nbsp;
+   <a href="https://www.linkedin.com/in/ankushdarade84/" target="blank" ><img align="center" alt="Linkedin" src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+  </tr>
+</table>
+
   
 <!--   <a href="https://www.leetcode.com/surajdarade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankushdarade84" height="30" width="40" /></a> -->
 </div>
@@ -28,9 +36,10 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
 <!-- <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> -->
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img alt="Angular" src="https://img.shields.io/badge/Angular-%23E34F26.svg?style=for-the-badge&logo=Angular&logoColor=white"/>
 <br>
 <!-- <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/> -->
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <!-- <img alt="mui" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/> -->
@@ -38,12 +47,17 @@
 <!-- <img alt="sockteio" src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white"/> -->
 </div>
 
-<h3 align="left">Languages :</h3>
+<h3 align="left">Languages and Backend :</h3>
 <div align="left">
   <img alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+
+   <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
+     <img  alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
+       <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
+
+
 
 <h3 align="left">Databases :</h3>
 <div align="left">
