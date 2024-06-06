@@ -80,63 +80,24 @@
 <h3 align="left">Project Links :</h3>
 <table >
   <tr>
-    <td>
       <a href="https://ankush-darade.netlify.app/" target="blank"><img align="center" alt="web"  src="https://ankush-darade.netlify.app/assets/img/aiim.png" height="80" width="80" /></a>&nbsp;
-    </td>
-    <td>
        <a href="https://employee-teamlist.netlify.app/" target="blank"><img align="center" alt="web"  src="https://github.com/ankushdarade84/Employee-Team-List-web/assets/82811718/3f23093d-0711-4d68-bb09-3a957d39acdd" height="80" width="80" /></a>&nbsp;
-    </td>
-    <td>
        <a href="https://madhuri-weds-rahul.netlify.app/" target="blank"><img align="center" alt="web"  src="https://madhuri-weds-rahul.netlify.app/assets/images/sppp/MR_name.png" height="80" width="80" /></a>&nbsp;
-    </td>
-      <td>
         <a href="https://blind-deaf-project.netlify.app/" target="blank"><img align="center" alt="web"  src="https://blind-deaf-project.netlify.app/images/logo.png" height="80" width="80"  /></a>&nbsp;
-      </td>
-     <td>
-       <a href="https://angular-regi-page.vercel.app/" target="blank"><img align="center" alt="web"  src="https://angular-regi-page.vercel.app/assets/ankushName.jpg"height="80" width="80"  /></a>&nbsp;
-     </td>
-     <td>
-       <a href="https://dashbord-task.netlify.app/" target="blank"><img align="center" alt="web"  src="https://github.com/ankushdarade84/Grid-Dashbord/assets/82811718/11d018e1-381e-46f6-a67e-80edf85c54f0" height="80" width="80"  /></a>&nbsp;
-     </td>
-      <td>
+        <a href="https://angular-regi-page.vercel.app/" target="blank"><img align="center" alt="web"  src="https://angular-regi-page.vercel.app/assets/ankushName.jpg"height="80" width="80"  /></a>&nbsp;
+        <a href="https://dashbord-task.netlify.app/" target="blank"><img align="center" alt="web"  src="https://github.com/ankushdarade84/Grid-Dashbord/assets/82811718/11d018e1-381e-46f6-a67e-80edf85c54f0" height="80" width="80"  /></a>&nbsp;
          <a href="https://github.com/ankushdarade84/GovermentRegistartionForm" target="blank"><img align="center" alt="web"  src="https://ankush-darade.netlify.app/assets/img/portfolio/soft3.jpg" height="80" width="80"  /></a>&nbsp;
-      </td>
-          
-  
-    
-  </tr>
-  <tr>
-    <td>
       <a href="https://github.com/ankushdarade84/Advance-Blind-Deaf-Communication-System" target="blank"><img align="center" alt="web"  src="https://ankush-darade.netlify.app/assets/img/portfolio/hard1.jpg" height="80" width="80"  /></a>&nbsp;
-    </td>
-    <td>
         <a href="https://github.com/ankushdarade84/Blind-Deaf-Communication-System" target="blank"><img align="center" alt="web"  src="https://ankush-darade.netlify.app/assets/img/portfolio/hard2.jpg" height="80" width="80"  /></a>&nbsp;
-    </td>
-    <td>
        <a href="https://github.com/ankushdarade84/Mini-Oscilloscope-And-Function-Generator" target="blank"><img align="center" alt="web"  src="https://ankush-darade.netlify.app/assets/img/portfolio/hard3.jpg" height="80" width="80"  /></a>&nbsp;
-    </td>
-    <td>
        <a href="https://github.com/ankushdarade84/Smart-Storage-System-For-Onion" target="blank"><img align="center" alt="web"  src="https://ankush-darade.netlify.app/assets/img/portfolio/hard4.jpg" height="80" width="80"  /></a>&nbsp;
-    </td>
-    <td>
        <a href="https://github.com/ankushdarade84/Smart-Green-House-System" target="blank"><img align="center" alt="web"  src="https://ankush-darade.netlify.app/assets/img/portfolio/hard5.jpg" height="80" width="80"  /></a>&nbsp;
-    </td>
-    <td>
        <a href="https://github.com/ankushdarade84/Wireless-Notice-Display" target="blank"><img align="center" alt="web"  src="https://ankush-darade.netlify.app/assets/img/portfolio/hard6.jpg" height="80" width="80"  /></a>&nbsp;
-    </td>
-
-    
-       
-   
-    
-    
-
-
-
   </tr>
 </table>
 
 <br>
+
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=ankushdarade84&show_icons=true&theme=light&locale=en&rank_icon&icon_color=00FF00&title_color=FFA500" alt="ankushdarade84" /></td>
