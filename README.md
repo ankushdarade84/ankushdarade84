@@ -23,7 +23,7 @@
    <a href="https://instagram.com/ankush_darade/" target="blank"><img align="center"alt="Insta" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=instagram"  ></a> &nbsp;
    <a href="https://www.linkedin.com/in/ankushdarade84/" target="blank" ><img align="center" alt="Linkedin" src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
   </tr>
-</table>
+</table> 
 
   
 <!--   <a href="https://www.leetcode.com/surajdarade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankushdarade84" height="30" width="40" /></a> -->
