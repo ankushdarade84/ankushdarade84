@@ -81,6 +81,7 @@
 <table >
   <tr>
       <a href="https://ankush-darade.netlify.app/" target="blank"><img align="center" alt="web"  src="https://ankush-darade.netlify.app/assets/img/aiim.png" height="80" width="80" /></a>&nbsp;
+   <a href="https://ott-platfom.netlify.app/" target="blank"><img align="center" alt="web"  src="https://ott-platfom.netlify.app/assets/image.png" height="80" width="80" /></a>&nbsp
     <a href="https://todo-save.netlify.app/" target="blank"><img align="center" alt="web"  src="https://todo-save.netlify.app/img/icon.png" height="80" width="80" /></a>&nbsp;
        <a href="https://employee-teamlist.netlify.app/" target="blank"><img align="center" alt="web"  src="https://github.com/ankushdarade84/Employee-Team-List-web/assets/82811718/3f23093d-0711-4d68-bb09-3a957d39acdd" height="80" width="80" /></a>&nbsp;
        <a href="https://madhuri-weds-rahul.netlify.app/" target="blank"><img align="center" alt="web"  src="https://madhuri-weds-rahul.netlify.app/assets/images/sppp/MR_name.png" height="80" width="80" /></a>&nbsp;
