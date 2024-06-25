@@ -21,7 +21,8 @@
   <tr>
       <a href="https://ankush-darade.netlify.app/" target="blank"><img align="center" alt="web"  src="https://ankush-darade.netlify.app/assets/img/aiim.png" height="35" width="35" /></a>&nbsp;
    <a href="https://instagram.com/ankush_darade/" target="blank"><img align="center"alt="Insta" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=instagram"  ></a> &nbsp;
-   <a href="https://www.linkedin.com/in/ankushdarade84/" target="blank" ><img align="center" alt="Linkedin" src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+   <a href="https://www.linkedin.com/in/ankushdarade84/" target="blank" ><img align="center" alt="Linkedin" src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a> &nbsp;
+  <a href="https://wa.me/918446231090" target="blank"><img align="center"alt="whatsapp" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=whatsapp"  ></a> &nbsp;
   </tr>
 </table> 
 
