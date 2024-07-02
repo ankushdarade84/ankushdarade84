@@ -9,7 +9,7 @@
 - 💬 Ask me about *Web App, C++, Java, Angular, React, MySQL.
 
 - 👨‍💻 Reach out to me : *<a href="mailto:atdarade84@gmail.com" target="_blank">atdarade84@gmail.com</a>*
-
+ 
 - 😄 Pronouns: He/His
    
 <h3 align="left">Connect with me:</h3>
